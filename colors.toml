@@ -1,0 +1,37 @@
+# The Dude — a theme for The Big Lebowski
+# Rug-dark browns, White Russian cream, Gutterballs gold,
+# bowling-alley neon teal, Jesus Quintana purple.
+mode = "dark"
+
+accent = "#e0a63f"
+selection = "#4a3228"
+muted = "#7d6757"
+
+background = "#1f1714"
+dark_background = "#181210"
+darker_background = "#110c0a"
+lighter_background = "#33251f"
+
+foreground = "#eee0c8"
+dark_foreground = "#7d6757"
+light_foreground = "#d4c3a6"
+bright_foreground = "#f8efe0"
+
+red = "#c8453a"
+yellow = "#e0a63f"
+orange = "#d9763b"
+green = "#95a05f"
+cyan = "#5fb0a5"
+blue = "#6b8fbb"
+magenta = "#a574b8"
+brown = "#8b5a3c"
+
+bright_red = "#e0655a"
+bright_yellow = "#f2c566"
+bright_green = "#b3bd7c"
+bright_cyan = "#82ccc1"
+bright_blue = "#8eadd4"
+bright_magenta = "#c496d4"
+
+hyprland_active_border = "rgba(e0a63fee) rgba(d9763bee) rgba(c8453aee) 45deg"
+hyprland_inactive_border = "rgba(4a3228aa)"
